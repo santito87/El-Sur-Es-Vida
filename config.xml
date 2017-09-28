@@ -15,4 +15,6 @@
       Rolan Bastidas
   </author>
   <engine name="android" spec="~4.2.3" />
+  <plugin name="cordova-plugin-legacy-whitelist" spec="1.1.1" />
+  <access origin="/paginas/quiz" />
 </widget>
