@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="xxxx" version="5.6.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps">
-    <name>xxx</name>
-    <description>xxx</description>
+    <name>El Sur Es Vida</name>
+    <description>Aplicativo El Sur Es Vida</description>
     <author email="rolanskapunkhc@hotmail.com" href="https:www.unasur.int">UNASUR</author>
     <content src="index.html" />
     <preference name="cordova-custom-config-autorestore" value="false" />
